@@ -31,6 +31,10 @@
 	left: 100%;
 }
 
+
+
+/*** DEMO SKIN ***/
+
 /* Centre the Menu */
 .sf-menu {
 float: left;
@@ -43,11 +47,7 @@ left: 0%;
 .sf-menu li {
 left: -50%;
 }
-
-/*** DEMO SKIN ***/
-.sf-menu {
-	float: right;
-}
+/* end */
 .sf-menu ul {
 	box-shadow: 2px 2px 6px rgba(0,0,0,.2);
 	min-width: 12em; /* allow long menu items to determine submenu width */
