@@ -31,6 +31,18 @@
 	left: 100%;
 }
 
+/* Centre the Menu */
+.sf-menu {
+float: left;
+position: relative;
+left: 50%;
+}
+.sf-menu ul li {
+left: 0%;
+}
+.sf-menu li {
+left: -50%;
+}
 
 /*** DEMO SKIN ***/
 .sf-menu {
